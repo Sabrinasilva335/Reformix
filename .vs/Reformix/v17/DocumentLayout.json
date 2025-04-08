@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sabrina.squeiroz2\\Documents\\reformix 3.0\\reformix2.0\\Reformix\\",
+  "WorkspaceRootPath": "C:\\Users\\aline.cdsilva\\OneDrive - SENAC - SP\\Documentos\\reformix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02643905-D566-407A-BB77-0A90AC9974DC}|Reformix.csproj|c:\\users\\sabrina.squeiroz2\\documents\\reformix 3.0\\reformix2.0\\reformix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02643905-D566-407A-BB77-0A90AC9974DC}|Reformix.csproj|c:\\users\\aline.cdsilva\\onedrive - senac - sp\\documentos\\reformix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02643905-D566-407A-BB77-0A90AC9974DC}|Reformix.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aline.cdsilva\\OneDrive - SENAC - SP\\Documentos\\reformix\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02643905-D566-407A-BB77-0A90AC9974DC}|Reformix.csproj|C:\\Users\\aline.cdsilva\\OneDrive - SENAC - SP\\Documentos\\reformix\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02643905-D566-407A-BB77-0A90AC9974DC}|Reformix.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02643905-D566-407A-BB77-0A90AC9974DC}|Reformix.csproj|C:\\Users\\aline.cdsilva\\OneDrive - SENAC - SP\\Documentos\\reformix\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02643905-D566-407A-BB77-0A90AC9974DC}|Reformix.csproj|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aline.cdsilva\\OneDrive - SENAC - SP\\Documentos\\reformix\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\aline.cdsilva\\OneDrive - SENAC - SP\\Documentos\\reformix\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:07:51.176Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\aline.cdsilva\\OneDrive - SENAC - SP\\Documentos\\reformix\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\aline.cdsilva\\OneDrive - SENAC - SP\\Documentos\\reformix\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-08T19:57:56.717Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\sabrina.squeiroz2\\Documents\\reformix 3.0\\reformix2.0\\Reformix\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aline.cdsilva\\OneDrive - SENAC - SP\\Documentos\\reformix\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\sabrina.squeiroz2\\Documents\\reformix 3.0\\reformix2.0\\Reformix\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\aline.cdsilva\\OneDrive - SENAC - SP\\Documentos\\reformix\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T19:47:04.184Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aline.cdsilva\\OneDrive - SENAC - SP\\Documentos\\reformix\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\aline.cdsilva\\OneDrive - SENAC - SP\\Documentos\\reformix\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAEwB4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:53:27.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
