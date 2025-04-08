@@ -16,5 +16,41 @@ namespace Reformix
         {
             InitializeComponent();
         }
+
+        private void buttonEntrar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (textUsuario.Text.Equals("Aline") && textSenha.Text.Equals("123"))
+                {
+                    // Seguir login para área restrita do app.
+                }
+                else
+                {
+                    MessageBox.Show("Error - HTTP 401",
+                        "Usuário e senha incorretos",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Error);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Desculpe",
+                        ex.Message,
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Error);
+
+            }
+        }
+
+        private void buttonCancelar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void buttonCadastrar_Click(object sender, EventArgs e)
+        {
+            //aguardar pull request
+        }
     }
 }

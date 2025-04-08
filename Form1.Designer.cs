@@ -101,6 +101,7 @@
             this.buttonEntrar.TabIndex = 4;
             this.buttonEntrar.Text = "Entrar";
             this.buttonEntrar.UseVisualStyleBackColor = true;
+            this.buttonEntrar.Click += new System.EventHandler(this.buttonEntrar_Click);
             // 
             // buttonCancelar
             // 
@@ -110,6 +111,7 @@
             this.buttonCancelar.TabIndex = 5;
             this.buttonCancelar.Text = "Cancelar";
             this.buttonCancelar.UseVisualStyleBackColor = true;
+            this.buttonCancelar.Click += new System.EventHandler(this.buttonCancelar_Click);
             // 
             // buttonCadastrar
             // 
@@ -119,6 +121,7 @@
             this.buttonCadastrar.TabIndex = 6;
             this.buttonCadastrar.Text = "Cadastre-se";
             this.buttonCadastrar.UseVisualStyleBackColor = true;
+            this.buttonCadastrar.Click += new System.EventHandler(this.buttonCadastrar_Click);
             // 
             // label3
             // 
