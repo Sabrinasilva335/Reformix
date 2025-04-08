@@ -78,6 +78,8 @@ bld/
 
 # Visual Studio 2017 auto generated files
 Generated\ Files/
+.vs/
+.vs/Reformix/v17/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
